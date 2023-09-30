@@ -6,6 +6,17 @@
     <title>Resume Uploader</title>
 </head>
 <body>
-    
+    <h1>Upload your Resume</h1>
+    {% with messages = get_flashed_messages() %} {% if messages %}
+    <ul>
+      {% for message in messages %}
+      <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% endwith %}
+    <form action="/" method="POST" enctype="multipart/form-data">
+      <input type="file" name="resume" accept=".pdf,.doc,.docx" />
+      <input type="submit" value="Upload" />
+    </form>
 </body>
 </html>
