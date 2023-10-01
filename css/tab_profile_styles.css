@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: #fff;
+    padding: 2rem 3rem;
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.2);
+    text-align: left;  
+    width: 100%;
+    max-width: 450px;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+p, label {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    font-size: 1.2rem;
+    margin-right: 10px;
+    display: inline-block;
+    width: 100px; /* This gives a uniform spacing to labels */
+}
+
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+input[type="file"] {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+#uploadStatus {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: green; /* You can adjust based on success/error */
+}
