@@ -17,8 +17,11 @@ We started with thinking of landing pages, aka home pages. These home pages are:
     index_applicant.html
     index_company.html
 
-There are two users for our website: Applicants and Companies.
+<h3>There are two users for our website: 
+- Applicants and Companies. </h3>
 
 Each of these users has their own login page, after the initial landing page asks "What type of user are you?" The user then selects Applicants or Companies.
 
 Applicants can upload their resumes (PDF) on their profile and update their information under the "Profile" tab. They can view companies to quick apply to under the "Companies" tab.
+
+Companies
