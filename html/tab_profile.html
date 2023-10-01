@@ -12,25 +12,26 @@
 
 <body>
     <h1>User Profile</h1>
+    <div class="container">
+        <div>
+            <h2>Username: <span id="username">Loading...</span></h2>
+        </div>
 
-    <div>
-        <h2>Username: <span id="username">Loading...</span></h2>
-    </div>
+        <div>
+            <h2>User Information</h2>
+            <p><strong>Name:</strong> <span id="name">Loading...</span></p>
+            <p><strong>Email:</strong> <span id="email">Loading...</span></p>
+            <p><strong>Age:</strong> <span id="age">Loading...</span></p>
+            <p><strong>Location:</strong> <span id="location">Loading...</span></p>
+        </div>
 
-    <div>
-        <h2>User Information</h2>
-        <p><strong>Name:</strong> <span id="name">Loading...</span></p>
-        <p><strong>Email:</strong> <span id="email">Loading...</span></p>
-        <p><strong>Age:</strong> <span id="age">Loading...</span></p>
-        <p><strong>Location:</strong> <span id="location">Loading...</span></p>
-    </div>
-
-    <div>
-        <h2>Upload Resume</h2>
-        <label for="resume">Choose a resume:</label>
-        <input type="file" id="resume" accept=".pdf,.doc,.docx">
-        <button onclick="uploadResume()">Upload Resume</button>
-        <p id="uploadStatus"></p>
+        <div>
+            <h2>Upload Resume</h2>
+            <label for="resume">Choose a resume:</label>
+            <input type="file" id="resume" accept=".pdf,.doc,.docx">
+            <button class="button" onclick="uploadResume()">Upload Resume</button>
+            <p id="uploadStatus"></p>
+        </div>
     </div>
 </body>
 
