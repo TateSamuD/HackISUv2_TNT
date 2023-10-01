@@ -61,7 +61,7 @@ input[type="submit"]:hover {
 
 .login-container {
     display: flex;
-    flex-direction: column; /* Stack children vertically */
-    align-items: center; /* Center children horizontally */
+    flex-direction: column;
+    align-items: center; 
 }
 

@@ -1,6 +1,5 @@
 body {
-    font-family: 'Poppins', sans-serif; /* Modern font */
-    /* background-color: #f5f5f5; */
+    font-family: 'Poppins', sans-serif;
     background-image: url("https://images.pexels.com/photos/21393/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
 }
@@ -11,7 +10,7 @@ body {
 
 header {
     background-color: #fff;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* subtle shadow for depth */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
 }
 
 .nav-tabs {
@@ -20,29 +19,27 @@ header {
 }
 
 .nav-link {
-    transition: color 0.3s ease; /* smooth color transition */
+    transition: color 0.3s ease;
     border-radius: 10px;
-    padding: 10px 15px; /* extra padding for better look and feel */
+    padding: 10px 15px; 
 }
 
 .nav-link:hover, 
 .nav-link:focus {
-    color: #007bff; /* Bootstrap primary color for hover/focus effect */
-    background-color: rgba(0,123,255, 0.1); /* subtle background on hover/focus */
+    color: #007bff; 
+    background-color: rgba(0,123,255, 0.1); 
 }
 
 .btn-outline-primary {
-    border-width: 2px; /* thicker border for the button */
+    border-width: 2px; 
 }
 
-/* Make the logout button a bit different for better visibility */
 .btn-outline-primary:hover, 
 .btn-outline-primary:focus {
     background-color: #007bff;
     color: #fff;
 }
 
-/* Optional: Add some space at the bottom of the header, especially if there's content below */
 header {
     margin-bottom: 2rem;
 }
