@@ -1,0 +1,40 @@
+/* login_pre.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: #fff;
+    padding: 2rem 3rem;
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.2);
+    text-align: center;  /* Center the text inside the container */
+}
+
+p {
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;  /* Remove the underline from the link */
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
