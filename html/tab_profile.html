@@ -3,9 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Profile</title>
+    <link rel="stylesheet" href="../css/tab_profile_styles.css">
 </head>
 <body>
+    <h1>User Profile</h1>
     
+    <div>
+        <h2>Username: <span id="username">JohnDoe</span></h2>
+    </div>
+    
+    <div>
+        <h2>User Information</h2>
+        <p><strong>Name:</strong> ...</p>
+        <p><strong>Email:</strong> ...</p>
+        <p><strong>Age:</strong> ...</p>
+        <p><strong>Location:</strong> ...</p>
+    </div>
+    
+    <div>
+        <h2>Upload Resume</h2>
+        <form action="upload.php" method="post" enctype="multipart/form-data">
+            <input type="file" name="resume" id="resume" accept=".pdf,.doc,.docx">
+            <br><br>
+            <input type="submit" value="Upload Resume">
+        </form>
+    </div>
 </body>
 </html>
