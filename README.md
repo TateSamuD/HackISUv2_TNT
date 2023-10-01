@@ -7,9 +7,9 @@ The theme for this hackathon is: Agriculture
 Team name: TNT
 
 Team members:
-- Tatenda Samudzi (https://github.com/TateSamuD)
-- Nick McCullough (https://github.com/mccnick)
-- Tristan Nono (https://github.com/T2703)
+- Tatenda Samudzi (CS) -> https://github.com/TateSamuD
+- Nick McCullough (SE) -> https://github.com/mccnick
+- Tristan Nono (CPRE) -> https://github.com/T2703
 
 We are all computer students at Iowa State! 
 - Tatenda (CS), Nick (SE), Tristan (CPRE)
