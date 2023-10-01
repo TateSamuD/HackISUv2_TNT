@@ -7,8 +7,8 @@ The theme for this hackathon is: Agriculture
 Team name: TNT
 
 Team members:
-- Nick McCullough (https://github.com/mccnick)
 - Tatenda Samudzi (https://github.com/TateSamuD)
+- Nick McCullough (https://github.com/mccnick)
 - Tristan Nono (https://github.com/T2703)
 
 We are building an ag-themed website for hiring and applying for jobs in the agriculture space. We wanted to focus on networking. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and hire, rather than the standard way of applying for jobs.
