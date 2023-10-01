@@ -1,8 +1,6 @@
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-import { getStorage, ref, uploadBytes } from "firebase/storage";
-require('firebase/auth'); // Import the Firebase Authentication module
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
+import { signInWithEmailAndPassword, getAuth } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-auth.js";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
@@ -18,17 +16,17 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-const storage = getStorage(app);
 
 // Login user.
-function loginUser() {
+window.loginUser = function () {
   const email = document.getElementById("email").value;
   const password = document.getElementById("password").value;
   const loginError = document.getElementById("loginError");
 
+  const auth = getAuth(app);
+
   // Sign in with Firebase Authentication
-  firebase.auth().signInWithEmailAndPassword(email, password)
+  signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
           // User signed in successfully
           const user = userCredential.user;
@@ -70,29 +68,6 @@ function uploadResume() {
   // For demonstration purposes, we'll just show a success message
   uploadStatus.textContent = 'File uploaded successfully.';
 }
-
-function fetchUserData() {
-  $.ajax({
-      url: 'fetch_user_data.php', // Replace with the actual server-side script
-      type: 'GET',
-      dataType: 'json',
-      success: function(data) {
-          // Update the page with fetched user data
-          document.getElementById('username').textContent = data.username;
-          document.getElementById('name').textContent = data.name;
-          document.getElementById('email').textContent = data.email;
-          document.getElementById('age').textContent = data.age;
-          document.getElementById('location').textContent = data.location;
-      },
-      error: function() {
-          console.log('Error fetching user data.');
-      }
-  });
-}
-
-// Call the function to fetch user data when the page loads
-window.onload = fetchUserData;
-
 
 
 

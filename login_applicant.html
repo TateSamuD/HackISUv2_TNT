@@ -12,21 +12,20 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
     <title>Login</title>
-    <script src="../firebase.js"></script>
-    <link rel="stylesheet" href="../css/login_applicant.css">
+    <link rel="stylesheet" href="./css/login_applicant.css">
 
 </head>
 
 <body>
     <div class="login-container">
         <h1>Applicant Login</h1>
-        <form action="#" method="post" onsubmit="return loginUser();">
-            <label for="email">Email:</label>
-            <input type="text" id="email" name="email" required><br><br>
-            <label for="password">Password:</label>
-            <input type="password" id="password" name="password" required><br><br>
-            <input type="submit" value="Login">
-        </form>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="button" value="Login" onclick="window.loginUser()">
     </div>
+    
+    <script type="module" src="./firebase.js"></script>
 </body>
 </html>
