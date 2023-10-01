@@ -11,10 +11,12 @@ Team members:
 - Nick McCullough (https://github.com/mccnick)
 - Tristan Nono (https://github.com/T2703)
 
-We are building an ag-themed website for hiring and applying for jobs in the agriculture space. We wanted to focus on networking. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and hire, rather than the standard way of applying for jobs.
+We are building an ag-themed website for hiring and applying for jobs in the agriculture space. We wanted to focus on networking. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and hire, rather than the standard way of applying for jobs online, which is more or less painful.
 
 We started with thinking of landing pages, aka home pages. These home pages are:
     index_applicant.html
     index_company.html
 
 There are two users for our website: Applicants and Companies.
+
+Each of these users has their own login page, after the initial landing page asks "What type of user are you?" The user then selects Applicants or Companies.
