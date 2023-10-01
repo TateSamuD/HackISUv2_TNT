@@ -12,19 +12,19 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
     <title>Login</title>
-    <link rel="stylesheet" href="../css/login_company.css">
+    <link rel="stylesheet" href="./css/login.css">
 </head>
 
 <body>
-    <div class="login-container">
+    <div class="login-container form">
         <h1>Company Login</h1>
-        <form action="firebase.js" method="post">
-            <label for="email">Email:</label>
-            <input type="text" id="email" name="email" required><br><br>
-            <label for="password">Password:</label>
-            <input type="password" id="password" name="password" required><br><br>
-            <input type="submit" value="Login">
-        </form>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="submit" value="Login" onclick="window.loginCompany()">
     </div>
+    <script type="module" src="./firebase.js"></script>
 </body>
+
 </html>

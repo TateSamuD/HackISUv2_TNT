@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
     background-image: url("https://images.pexels.com/photos/21393/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
+    align-items: center;
+    justify-content: center;
+    height: 150%;
+    margin: 0;
 }
 
 .container {
@@ -10,31 +14,45 @@ body {
 
 header {
     background-color: #fff;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.nav-tabs {
+.nav_container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    width: 100%;
+}
+
+.nav_container header {
+    padding: 10px;
+    align-items: normal;
+}
+
+.nav.nav-tabs li {
     list-style-type: none;
     padding: 0;
+    margin: 10px;
 }
 
 .nav-link {
     transition: color 0.3s ease;
     border-radius: 10px;
-    padding: 10px 15px; 
+    padding: 10px 15px;
 }
 
-.nav-link:hover, 
+.nav-link:hover,
 .nav-link:focus {
-    color: #007bff; 
-    background-color: rgba(0,123,255, 0.1); 
+    color: #007bff;
+    background-color: rgba(0, 123, 255, 0.1);
 }
 
 .btn-outline-primary {
-    border-width: 2px; 
+    border-width: 2px;
 }
 
-.btn-outline-primary:hover, 
+.btn-outline-primary:hover,
 .btn-outline-primary:focus {
     background-color: #007bff;
     color: #fff;
@@ -44,13 +62,13 @@ header {
     margin-bottom: 2rem;
 }
 
-.welcome_students{
+.welcome_students {
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgba(0,123,255, 0.1);
+    background-color: rgba(0, 123, 255, 0.1);
     text-align: center;
 }

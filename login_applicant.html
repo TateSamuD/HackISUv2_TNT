@@ -12,20 +12,20 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
     <title>Login</title>
-    <link rel="stylesheet" href="./css/login_applicant.css">
-
+    <link rel="stylesheet" href="./css/login.css">
 </head>
 
 <body>
-    <div class="login-container">
+    <div class="login-container form">
         <h1>Applicant Login</h1>
         <label for="email">Email:</label>
         <input type="text" id="email" name="email" required><br><br>
         <label for="password">Password:</label>
         <input type="password" id="password" name="password" required><br><br>
-        <input type="button" value="Login" onclick="window.loginUser()">
+        <input type="button" value="Login" onclick="window.loginApplicant()">
     </div>
-    
+
     <script type="module" src="./firebase.js"></script>
 </body>
+
 </html>
