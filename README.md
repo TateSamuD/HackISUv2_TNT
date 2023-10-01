@@ -1,6 +1,7 @@
 # HackISUv2
  
-Welcome, this our project for HackISUv2
+<h3>Welcome, this our project for HackISUv2!</h3>
+
 The theme for this hackathon is: Agriculture
 
 Team name: TNT
