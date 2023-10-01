@@ -13,12 +13,14 @@ Team members are all computer majors at Iowa State!
 
 We are building an ag-themed website for hiring and applying for jobs in the agriculture space. We wanted to focus on networking. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and hire, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
 
-We started with thinking of landing pages, aka home pages. These home pages are: index_applicant.html and index_company.html
+We started with thinking of landing pages, aka home pages. These home pages are:
+- index_applicant.html
+- index_company.html
 
 _________________
 <h3>There are two users for our website: Applicants and Companies. </h3>
 
-Each of these users has their own login page, after the initial landing page asks "What type of user are you?" The user then selects Applicants or Companies.
+Each of these users has their own login page, after the initial website landing page asks "What type of user are you?" The user then selects Applicants or Companies, which leads them to their respective login pages. For 24hr timesake, we did not do a registration page.
 
 Applicants can upload their resumes (PDF) on their profile and update their information under the "Profile" tab. They can view companies to quick apply to under the "Companies" tab.
 
