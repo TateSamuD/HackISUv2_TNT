@@ -4,6 +4,7 @@ Welcome, this our project for HackISUv2
 The theme for this hackathon is: Agriculture
 
 Team name: TNT
+
 Team members:
 - Nick McCullough (https://github.com/mccnick)
 - Tatenda Samudzi (https://github.com/TateSamuD)
