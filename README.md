@@ -34,4 +34,4 @@ Each of these users has their own login page, after the initial website landing 
 
 - Applicants can upload their resumes (PDF) on their profile and update their information under the "Profile" tab. They can view companies to quick apply to under the "Companies" tab.
 
-- Companies can view the home page
+- Companies can view the home page and the Applicants tab, which shows student profiles and resumes. Ideally, we would have made a company profile tab for companies to edit info about their company.
