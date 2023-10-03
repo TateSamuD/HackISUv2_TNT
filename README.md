@@ -12,10 +12,14 @@ Team name: TNT
 
 <b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a><b>
 
+_________________
+
 Team members are all computer majors at Iowa State!
 - Tatenda Samudzi (CS) -> https://github.com/TateSamuD
 - Nick McCullough (SE) -> https://github.com/mccnick
 - Tristan Nono (CPRE) -> https://github.com/T2703
+
+_________________
 
 Technologies used:
  - JavaScript
@@ -37,6 +41,7 @@ The NavBar is viewable on the following screens for their respective users:
 - Home (both users, the index files above)
 
 _________________
+
 <h3>There are two users for our website: Applicants and Companies. </h3>
 
 Each of these users has their own login page, after the initial website landing page asks "What type of user are you?" The user then selects Applicants or Companies, which leads them to their respective login pages. For 24hr timesake, we did not do a registration page.
