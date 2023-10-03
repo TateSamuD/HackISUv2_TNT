@@ -4,7 +4,7 @@
 
 -> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation (with <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">pics</a>) we made for Software, Agriculture and Business professionals.
 
-<b>This project was built and presented in under 24 hours.</b>
+<i><b>This project was built and presented in under 24 hours.</b></i>
 
 The theme for this hackathon is: <b>Agriculture</b>. 
 
