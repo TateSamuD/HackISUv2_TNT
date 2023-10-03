@@ -26,7 +26,7 @@ Technologies used:
  - HTML
  - CSS
 
-We built an ag-themed networking website for hiring and applying for jobs in the agriculture space. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and move applicants along in the hiring process, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
+We built an ag-themed networking website for hiring and applying for jobs in the agriculture space. In an ideal environment, this would be a private website that you can access only after you have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and move applicants along in the hiring process, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
 
 We started with thinking of landing pages, aka home pages. These home pages are:
 - <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/index_applicant.html">index_applicant.html</a>
