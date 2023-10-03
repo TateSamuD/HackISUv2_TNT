@@ -59,7 +59,7 @@ _________________
 
 Logging in depending on what you selected before:
 
-<img width="333" alt="applicantlogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/db237c99-1b40-4617-b61b-54f93ec2825d">
+<img width="337" alt="applicantlogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/db237c99-1b40-4617-b61b-54f93ec2825d">
 
 <img width="333" alt="companylogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/e6322c98-dd4c-450e-93d3-b37f12745f10">
 
