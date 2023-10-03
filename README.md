@@ -22,7 +22,7 @@ Technologies used:
  - HTML
  - CSS
 
-We are building an ag-themed networking website for hiring and applying for jobs in the agriculture space. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and move applicants along in the hiring process, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
+We built an ag-themed networking website for hiring and applying for jobs in the agriculture space. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and move applicants along in the hiring process, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
 
 We started with thinking of landing pages, aka home pages. These home pages are:
 - <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/index_applicant.html">index_applicant.html</a>
@@ -46,3 +46,12 @@ _________________
 <h3> Revenue Model </h3>
 
 We pitched the idea that Agriculture companies looking to hire the best appicants (that know how network well), would help sponsor and launch the website.
+
+_________________
+<h3> Images </h3>
+<img width="798" alt="whattypeofuser" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/637b8a61-8be9-4976-8707-c06580545d82">
+<img width="337" alt="applicantlogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/db237c99-1b40-4617-b61b-54f93ec2825d">
+<img width="333" alt="companylogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/e6322c98-dd4c-450e-93d3-b37f12745f10">
+<img width="966" alt="applicantstab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/7f1a1cc9-4f6d-4ec6-8ca4-7877782fa3dd">
+<img width="989" alt="copmaniestab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/4d8ac7c0-6760-4dbd-becd-32fcc073c077">
+<img width="970" alt="profiletab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/0f8772cc-17cf-4254-be45-e612bc6e1ae3">
