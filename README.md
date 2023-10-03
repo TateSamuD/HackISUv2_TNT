@@ -29,10 +29,10 @@ We started with thinking of landing pages, aka home pages. These home pages are:
 - <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/index_company.html">index_company.html</a>
 
 The NavBar is viewable on the following screens for their respective users:
-- Profile (Applicants user)
-- Companies (Applicants user)
-- Applicants (Companies user)
-- Home (both users)
+- <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/tab_profile.html">Profile</a> (Applicants user)
+- <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/tab_company.html">Companies</a> (Applicants user) 
+- <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/tab_applicant.html">Applicants</a> (Companies user)
+- Home (both users - the index files above)
 
 _________________
 <h3>There are two users for our website: Applicants and Companies. </h3>
