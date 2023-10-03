@@ -44,7 +44,7 @@ Each of these users has their own login page, after the initial website landing 
 _________________
 <h3> Revenue Model </h3>
 
-We pitched the idea that Agriculture companies looking to hire the best appicants (that know how network well), would help sponsor and launch the website.
+We pitched the idea that Agriculture companies looking to hire the best applicants (that know how network well), would help sponsor and launch the website.
 
 _________________
 <h3> Images </h3>
