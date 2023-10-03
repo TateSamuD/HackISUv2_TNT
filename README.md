@@ -2,7 +2,7 @@
  
 <h3>Welcome, this our project for HackISUv2!</h3>
 
--> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation we made for Software, Agriculture and Business professionals.
+-> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation (with pictures) we made for Software, Agriculture and Business professionals.
 
 
 
@@ -25,8 +25,8 @@ Technologies used:
 We are building an ag-themed networking website for hiring and applying for jobs in the agriculture space. In an ideal environment, this would be a private website that you can access only after have networked at an agriculture related event from a hiring manager or recruiter. This is an easier way to apply and move applicants along in the hiring process, rather than the standard way of applying for jobs online, which is more or less <i><b>painful</b></i>.
 
 We started with thinking of landing pages, aka home pages. These home pages are:
-- index_applicant.html
-- index_company.html
+- <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/index_applicant.html">index_applicant.html</a>
+- <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/index_company.html">index_company.html</a>
 
 The NavBar is viewable on the following screens for their respective users:
 - Profile (Applicants user)
