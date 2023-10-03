@@ -2,7 +2,7 @@
  
 <h3>Welcome, this our project for HackISUv2!</h3>
 
-Click <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">here</a></b> to view our presentation we made for Software, Agriculture and Business professionals.
+-> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation we made for Software, Agriculture and Business professionals.
 
 
 
