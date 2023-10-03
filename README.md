@@ -2,8 +2,7 @@
  
 <h3>Welcome, this our project for HackISUv2!</h3>
 
--> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation (with pics) we made for Software, Agriculture and Business professionals.
-
+-> <b><a href="https://docs.google.com/presentation/d/1DKViKjFBE88dWei_xCWKsp4aOWyWWY58/edit?usp=drive_link&ouid=108362000636159531406&rtpof=true&sd=true">Click here</a></b> <- to view our presentation (with <a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">pics</a>) we made for Software, Agriculture and Business professionals.
 
 
 The theme for this hackathon is: Agriculture
