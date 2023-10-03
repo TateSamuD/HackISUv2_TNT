@@ -6,11 +6,11 @@
 
 <i><b>This project was built and presented in under 24 hours.</b></i>
 
-<b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a><b>
-
 The theme for this hackathon is: <b>Agriculture</b>. 
 
 Team name: TNT
+
+<b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a><b>
 
 Team members are all computer majors at Iowa State!
 - Tatenda Samudzi (CS) -> https://github.com/TateSamuD
