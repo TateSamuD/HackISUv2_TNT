@@ -49,6 +49,7 @@ We pitched the idea that Agriculture companies looking to hire the best applican
 
 _________________
 <h3> Images </h3>
+
 Page you see when opening website (logout button takes you here):
 
 
