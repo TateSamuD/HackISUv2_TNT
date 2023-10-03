@@ -9,7 +9,6 @@ import { getDatabase, ref, child, get } from "https://hackisuv2tnt-default-rtdb.
 
 const database = getDatabase();
 
-// Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCr1y5hKS0XcP6aMHlSE8WF0NuF_rpn0N8",
@@ -102,17 +101,12 @@ function uploadResume() {
       "Invalid file type. Please upload a PDF or Word document.";
     return;
   }
-
-  // Here, you can add code to send the file to your server or perform other actions
-  // For example, you can use the Fetch API to send the file to a server-side script
-
-  // For demonstration purposes, we'll just show a success message
   uploadStatus.textContent = "File uploaded successfully.";
 }
 
 
 // Retrieve user data from Firebase
-// var userId = "USER_ID"; // Replace with the actual user ID
+// var userId = "USER_ID"; 
 var userRef = database.ref('user/' + 1);
 
 const dbRef = ref(getDatabase());
@@ -138,5 +132,4 @@ userRef.on('value', function(snapshot) {
     document.getElementById('school').textContent = userData.school || 'N/A';
     document.getElementById('major').textContent = userData.major || 'N/A';
     document.getElementById('gradYear').textContent = userData.gradYear || 'N/A';
-    // Populate other fields in a similar manner
 });
