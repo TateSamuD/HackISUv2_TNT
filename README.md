@@ -8,13 +8,11 @@
 
 The theme for this hackathon is: <b>Agriculture</b>. 
 
-Team name: TNT
-
 <b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a><b>
 
 _________________
 
-Team members are all computer majors at Iowa State!
+Team members are all computer majors at Iowa State! Team name: TNT
 - Tatenda Samudzi (CS) -> https://github.com/TateSamuD
 - Nick McCullough (SE) -> https://github.com/mccnick
 - Tristan Nono (CPRE) -> https://github.com/T2703
