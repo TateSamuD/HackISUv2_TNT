@@ -8,7 +8,7 @@
 
 The theme for this hackathon is: <b>Agriculture</b>. 
 
-<b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a><b>
+<b><a href="https://github.com/TateSamuD/HackISUv2_TNT/blob/main/README.md#-images-">Pictures</a></b>
 
 _________________
 
