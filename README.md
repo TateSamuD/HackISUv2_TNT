@@ -48,9 +48,34 @@ We pitched the idea that Agriculture companies looking to hire the best appicant
 
 _________________
 <h3> Images </h3>
+Page you see when opening website (logout button takes you here):
+
+
 <img width="798" alt="whattypeofuser" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/637b8a61-8be9-4976-8707-c06580545d82">
+
+Logging in depending on what you selected before:
+
 <img width="337" alt="applicantlogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/db237c99-1b40-4617-b61b-54f93ec2825d">
+
 <img width="333" alt="companylogin" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/e6322c98-dd4c-450e-93d3-b37f12745f10">
-<img width="966" alt="applicantstab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/7f1a1cc9-4f6d-4ec6-8ca4-7877782fa3dd">
+
+Applicant user - home page:
+<img width="970" alt="indexApplicants" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/7aa15803-4dbf-45d9-a449-bbb7f489e824">
+
+Applicant user - Companies tab to view sponsoring Ag companies wanting to hire:
+
 <img width="989" alt="copmaniestab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/4d8ac7c0-6760-4dbd-becd-32fcc073c077">
+
+Applicant user - Profile tab to update your relevant information and upload resume:
+
 <img width="970" alt="profiletab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/0f8772cc-17cf-4254-be45-e612bc6e1ae3">
+
+Company user - home page:
+
+<img width="970" alt="indexCopmanies" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/e3dc9a74-bb63-4990-90fc-5396f4d8a836">
+
+Company user - Applicants tab to view who applied to your company:
+
+<img width="966" alt="applicantstab" src="https://github.com/TateSamuD/HackISUv2_TNT/assets/91184284/7f1a1cc9-4f6d-4ec6-8ca4-7877782fa3dd">
+
+
